@@ -46,8 +46,6 @@ To load onto the arduino you can use the regular arduino IDE. for the system to 
 
 
 
-```
-[Back To The Top](#read-me-template)
 
 
 
