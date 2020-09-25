@@ -32,7 +32,7 @@ The bot also follows a black line to find its way to the maze entrance.
 - arduino
 - C/C++
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#mechbot)
 
 ---
 
@@ -43,7 +43,7 @@ The bot also follows a black line to find its way to the maze entrance.
 >
 >- Importance of testing code
 
-[Back To The Top](#maritime-life-support-device)
+[Back To The Top](#mechbot)
 
 ---
 
@@ -55,7 +55,9 @@ To load onto the arduino you can use the regular arduino IDE. for the system to 
 - Mechbot
 - arduino
 
+[Back To The Top](#mechbot)
 
+---
 
 
 
