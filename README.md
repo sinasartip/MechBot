@@ -27,12 +27,23 @@ The control system has a prefered direction and will turn whenever the front of 
 
 The bot also follows a black line to find its way to the maze entrance. 
 
-#### Technologies
+### Technologies
 
 - arduino
 - C/C++
 
 [Back To The Top](#read-me-template)
+
+---
+
+## What I learnt
+>- Code sharing amongst team members
+>
+>- Planin and researching code 
+>
+>- Importance of testing code
+
+[Back To The Top](#maritime-life-support-device)
 
 ---
 
